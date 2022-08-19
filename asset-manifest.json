@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pk-monsters/static/css/main.b8ece7f0.css",
+    "main.js": "/pk-monsters/static/js/main.5dd09523.js",
+    "static/js/787.06ffaf40.chunk.js": "/pk-monsters/static/js/787.06ffaf40.chunk.js",
+    "index.html": "/pk-monsters/index.html",
+    "main.b8ece7f0.css.map": "/pk-monsters/static/css/main.b8ece7f0.css.map",
+    "main.5dd09523.js.map": "/pk-monsters/static/js/main.5dd09523.js.map",
+    "787.06ffaf40.chunk.js.map": "/pk-monsters/static/js/787.06ffaf40.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8ece7f0.css",
+    "static/js/main.5dd09523.js"
+  ]
+}
